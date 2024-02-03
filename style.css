@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.Footer{
+text-align: center;
+padding: 20px ;
+}
+
+.button{
+    background-color: green;
+    color: white;
+    margin: 4px 2px;
+    padding: 14px 35px;
+    font-size: 16px;
+    border: none;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.finish{
+   background-color: rgb(48, 48, 67); 
+   color: rgb(231, 231, 231);
+padding:  3px 200px;
+max-height:300px ;
+   display: flex;
+   gap: 100px;
+}
+
+ul{
+    list-style-type: none;
+    text-decoration: none;
+    display: block;
+    overflow: hidden;
+}
+
+input{
+    background-color: rgb(80, 74, 74);
+border-radius: 10px;
+    }
+
+
+    
+
+
